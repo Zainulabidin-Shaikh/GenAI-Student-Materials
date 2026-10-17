@@ -1,0 +1,6 @@
+# Keep released file bytes the same on Windows and GitHub runners.
+* -text
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
