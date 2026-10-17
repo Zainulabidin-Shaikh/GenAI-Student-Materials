@@ -1,0 +1,4 @@
+Python class is on Monday at 10:00 in Room 2.
+Pandas class is on Tuesday at 11:00 in Room 3.
+Bring a laptop to both classes.
+The class notes do not give a fee.

@@ -1,0 +1,19 @@
+# Tested together with Python 3.12 on Windows.
+# pip installs the additional dependencies required by these packages.
+numpy==2.5.3
+pandas==3.0.6
+matplotlib==3.11.2
+seaborn==0.13.2
+scikit-learn==1.9.1
+scipy==1.18.1
+tensorflow==2.20.0
+keras==3.15.1
+pillow==12.3.0
+notebook==7.6.3
+ipykernel==7.4.0
+nbformat==5.11.1
+nbclient==0.11.0
+nbconvert==7.17.1
+
+# Local LLM, document, and app lessons (Days 15-44).
+-r requirements-genai.txt

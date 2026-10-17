@@ -1,0 +1,4 @@
+FROM llama3.2
+PARAMETER temperature 0
+PARAMETER num_predict 128
+SYSTEM "You teach beginners. Use short sentences and define new terms."
