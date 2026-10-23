@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "source_commit": "519e8a86a34fac4866bd8fab5ec3ad077251aafe",
+  "source_commit": "bccf8a7bb0e4d04a4727abaa803da559a722dfd3",
   "handout_sources": {
-    "materials/day-01/handouts/day-01-handout-01-setup-and-ai-foundations.html": "e9c1b06e1c88d9273d5b1636cf8ba03a7ae9a179b0a95de493586b3a283b89fb",
+    "materials/day-01/handouts/day-01-handout-01-setup-and-ai-foundations.html": "e63db191ba159a315b0487baa8b4ee5832dc8d06bf23fc75666dac3aa777a543",
     "materials/day-02/handouts/day-02-handout-01-python-essentials.html": "70a145755c99401d6708d5ce9fe933166ebd44df2da618380f12f70541f3507f",
     "materials/day-03/handouts/day-03-handout-01-pandas.html": "a4ad89f13b3ee9a8b9e22a749acf112bad5e9015cfbbf071ed106f639947b766",
     "materials/day-04/handouts/day-04-handout-01-matplotlib.html": "f1f40e3f3d4ab50d6a15d77b37b1134ac3208d0f8423b81501dc5bc321e948c1",
@@ -53,7 +53,8 @@
     ".gitignore": "031969c5c43c64915695de406b3aee2a375d685d72f0f602cfc93da79768945c",
     ".vscode/settings.json": "cb39a3530fb2654b345a1b1d4ef6b6eeef9aa58524037bf661617d0c0a0e47ad",
     "README.md": "f98f1c9d577ebfa6eda45d7acd6dc577b40dac7bbe35595ae0d05b362e8f5a93",
-    "day-01/handout.pdf": "3700385a3da86c6344ba8e9e9fd7c6968985f23eadae6ccf0eef456105369519",
+    "day-01/assets/setup-playlist-qr.png": "2d7ae6d9232cee3b92c52a35547c1ff568a1baecf31e709b769c9d8630ea4ae3",
+    "day-01/handout.pdf": "28469c6cefdbc82b8b66f3a1425dbbbea421d311208adb2b9eaa2bbfb3062503",
     "day-02/handout.pdf": "bd79cc2e88365e23c68c2ac7a798629794703afc0a35bbe87cc6d21c4827ec81",
     "day-02/notebooks/part-1.ipynb": "15a4c892737e08b9af5b0cf1feb591f8dade36b4b3ca9e85101417807d3f498b",
     "day-02/notebooks/part-2.ipynb": "36096d3564be1c4a628aa92b598191331e33bee61ca8a5e465e0662fc0905639",
