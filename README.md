@@ -35,7 +35,7 @@ For Day 9, follow [the image data steps](day-09/data/README.md) first. Image tra
 | 01 | AI, ML and DL: First Steps | [Handout](day-01/handout.pdf) |
 | 02 | Python Basics: Values, Choices, Loops and Functions | [Handout](day-02/handout.pdf) / [Notebook 1](day-02/notebooks/part-1.ipynb) / [Notebook 2](day-02/notebooks/part-2.ipynb) / [Notebook 3](day-02/notebooks/part-3.ipynb) |
 | 03 | Pandas: Read and Clean Tables (with NumPy introduction) | [Handout](day-03/handout.pdf) / [Notebook](day-03/notebooks/practice.ipynb) |
-| 04 | Matplotlib and Seaborn: Build and Read Charts | [Handout](day-04/matplotlib.pdf) / [Handout](day-04/seaborn.pdf) / [Notebook 1](day-04/notebooks/matplotlib.ipynb) / [Notebook 2](day-04/notebooks/seaborn.ipynb) |
+| 04 | Simple Charts with Matplotlib and Seaborn | [Handout](day-04/handout.pdf) / [Notebook](day-04/notebooks/practice.ipynb) |
 | 05 | Linear Regression: Predict a Number | [Handout](day-05/handout.pdf) / [Notebook](day-05/notebooks/practice.ipynb) |
 | 06 | Logistic Regression: Choose a Class | [Handout](day-06/handout.pdf) / [Notebook](day-06/notebooks/practice.ipynb) |
 | 07 | KNN: Learn From Nearby Examples | [Handout](day-07/handout.pdf) / [Notebook](day-07/notebooks/practice.ipynb) |
