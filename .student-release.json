@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "source_commit": "1bc9a53fe63a31b6e6a1462b7ca63c302a8cafe9",
+  "source_commit": "e13a379c47e36b95e7e56d933fb1bc42cf850d8b",
   "handout_sources": {
     "materials/day-01/handouts/day-01-handout-01-setup-and-ai-foundations.html": "e63db191ba159a315b0487baa8b4ee5832dc8d06bf23fc75666dac3aa777a543",
     "materials/day-02/handouts/day-02-handout-01-python-essentials.html": "70a145755c99401d6708d5ce9fe933166ebd44df2da618380f12f70541f3507f",
@@ -60,8 +60,9 @@
     "day-02/notebooks/part-3.ipynb": "eb6bd0453e941d47a6b53d9708ee0f0d56653be8a4ae0c5b8de988cb229a704e",
     "day-03/handout.pdf": "b82e1861decc0a91a22df9edeb438a8974a4ee850cabd2cd331b2cafee4b28cb",
     "day-03/notebooks/practice.ipynb": "a3e27ae122306e9980e2dae6d87d9e55e1cc4c8bafe4dbdbe89843eaa6b3368c",
+    "day-04/assets/iris.csv": "9cc1c345c71bcc9b486b74cbf6063fa66f4bb5e0f603a4b3c3471ec2e5e8e355",
     "day-04/handout.pdf": "7861850fc2534efd9dc41ae9adb7b8c7d2852bc2a2cbf71bc809c26a8f153bf1",
-    "day-04/notebooks/practice.ipynb": "9a7e771a767cf19700a63bb897f074a7ab5e3a75da8eedeecd56c968a617e267",
+    "day-04/notebooks/practice.ipynb": "9c81fc8a2e080bde08b4189086d268fa029f24f3c40e5d95569b4bf0bf2440a4",
     "day-05/handout.pdf": "a23cf0d2e44c86bc6e150d828ae82b6041d341b0aef867416fcee9c8978a1074",
     "day-05/notebooks/practice.ipynb": "120eae99e2cf479a882d851571fb98f9c1ddfa2da3a885f5c227e2a36eb4c5de",
     "day-06/handout.pdf": "6209170dec21fa566af9cc62e388a0457b78004fc15f056f38eb522f6c1fe874",
